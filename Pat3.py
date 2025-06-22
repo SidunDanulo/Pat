@@ -1,0 +1,5 @@
+print(2+2)
+print(34*34)
+print(234-432)
+print(15-2)
+print(50/2)
